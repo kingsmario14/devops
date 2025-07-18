@@ -1,0 +1,6 @@
+#!/bin/bash
+mkdir -p HTML
+echo "This is the first landing page" > HTML/index.html
+echo "This is about page" > HTML/about.html
+echo "This is contact page" >HTmL/contact.html
+
